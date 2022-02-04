@@ -1,7 +1,7 @@
 ## ¡Hola! Soy Sandra :relaxed:
 
 
-> - :purple_heart: Actualmente estudiando Programación en #Adalab
+> - :purple_heart: Actualmente estudiando Programación en #Adalab - Promo Olguin
 > - :seedling: ¡Siempre creciendo!
 > - :speech_balloon: ¿Hablamos?
 
