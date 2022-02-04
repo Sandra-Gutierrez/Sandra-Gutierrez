@@ -8,7 +8,7 @@
 ### ⚡ ¿Qué hago? ⚡
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B3?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-57a4ff?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=SASS)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-1572B6?style=flat-square&logo=BOOTSTRAP)
 ![Javascript](https://img.shields.io/badge/-JavaScript-BLACK?style=flat-square&logo=javascript)
