@@ -12,8 +12,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=SASS)
 ![Javascript](https://img.shields.io/badge/-Javascript-BLACK?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutiérrez), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
