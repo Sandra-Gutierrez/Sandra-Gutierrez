@@ -1,5 +1,6 @@
 ## ¡Hola! Soy Sandra :relaxed:
 
+Tras años trabajando en el sector formativo, decidí dar un giro de 180º y enfocarme hacia el desarrollo web. Mi pasión y compromiso me permitieron iniciarme de forma autodidacta y colaborar como maquetadora en pequeños proyectos. Tras mi paso por Adalab, me siento lista para enfrentar nuevos retos.
 
 > - ✨ En búsqueda de nuevos retos profesionales
 > - :purple_heart: #Adalaber - Promo Olguin
