@@ -20,4 +20,4 @@ Tras años trabajando en el sector formativo, decidí dar un giro de 180º y enf
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 ![WordPress](https://img.shields.io/badge/-WordPress-57a4ff?style=flat-square&logo=WordPress)
 
-Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutiérrez), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
+Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
