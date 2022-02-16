@@ -16,5 +16,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-c3f4e9?style=flat-square&logo=)
 ![SQL](https://img.shields.io/badge/-SQL-FFF483?style=flat-square&logo=)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
+![WordPress](https://img.shields.io/badge/-WordPress-ffdbe2?style=flat-square&logo=WordPress)
 
 Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutiérrez), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
