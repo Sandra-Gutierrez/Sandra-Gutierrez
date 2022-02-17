@@ -4,8 +4,8 @@ Tras años trabajando en el sector de la Pedagogía, decidí dar un giro de 180�
 
 > - ✨ En búsqueda de nuevos retos profesionales
 > - :purple_heart: #Adalaber - Promo Olguin
+> - ➕ Background: Pedagogía, E-Learning y Atención Temprana.
 > - :seedling: ¡Siempre creciendo!
-> - 🔙 Background: Pedagogía, E-Learning y Atención Temprana.
 > - :speech_balloon: ¿Hablamos?
 
 ### ⚡ ¿Qué hago? ⚡
