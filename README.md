@@ -23,4 +23,4 @@ Tras años trabajando en el sector formativo, decidí dar un giro de 180º y enf
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-c3f4e9?style=flat-square&logo=AdobePhotoshop)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-dcb6f2?style=flat-square&logo=AdobeXD)
 
-Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
+                                                                  Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
