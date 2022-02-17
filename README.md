@@ -19,7 +19,7 @@ Tras años trabajando en el sector formativo, decidí dar un giro de 180º y enf
 ![SQL](https://img.shields.io/badge/-SQL-FFF483?style=flat-square&logo=)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 ![WordPress](https://img.shields.io/badge/-WordPress-57a4ff?style=flat-square&logo=WordPress)
-![Photoshop](https://img.shields.io/badge/-Photoshop-57a4ff?style=flat-square&logo=Photoshop)
+![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-57a4ff?style=flat-square&logo=AdobePhotoshop)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-57a4ff?style=flat-square&logo=AdobeXD)
 
 Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
