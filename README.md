@@ -18,7 +18,7 @@ Tras años trabajando en el sector formativo, decidí dar un giro de 180º y enf
 ![React](https://img.shields.io/badge/-React-30373f?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF483?style=flat-square&logo=Node.JS)
-![Express.js](https://img.shields.io/badge/-Express.js-FFF483?style=flat-square&logo=Express.JS)
+![NPM](https://img.shields.io/badge/-NPM-FFF483?style=flat-square&logo=NPM)
 ![SQL](https://img.shields.io/badge/-SQL-ff8181?style=flat-square&logo=SQLite)
 
 ![WordPress](https://img.shields.io/badge/-WordPress-57a4ff?style=flat-square&logo=WordPress)
