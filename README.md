@@ -8,7 +8,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 > - :seedling: Always growing!
 > - :speech_balloon: Let’s chat!
 
-### ⚡ What do I do? ⚡
+### ⚡ My skills ⚡
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ff8181?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-57a4ff?style=flat-square&logo=css3)
