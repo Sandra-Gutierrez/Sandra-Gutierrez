@@ -6,7 +6,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 > - :purple_heart: #Adalaber - Promo Olguin.
 > - ➕ Background: Pedagogía, E-Learning y Atención Temprana.
 > - :seedling: Always growing!
-> - :speech_balloon: ¿Hablamos?
+> - :speech_balloon: Let’s chat!
 
 ### ⚡ What do I do? ⚡
 
