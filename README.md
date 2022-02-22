@@ -2,7 +2,7 @@
 
 After years of working on the educational sector, I decided to take a 180º turn and focus on web development. With passion and dedication I taught myself the basics of HTML and CSS, and began to collaborate as a layout designer on small projects. I wanted to improve my skills so I decided to study the #Adalab Web Programming Bootcamp. After my time at Adalab, I feel ready for new challenges.
 
-> - ✨ En búsqueda de nuevos retos profesionales.
+> - ✨ Looking for new professional challenges.
 > - :purple_heart: #Adalaber - Promo Olguin.
 > - ➕ Background: Pedagogía, E-Learning y Atención Temprana.
 > - :seedling: ¡Siempre creciendo!
