@@ -8,7 +8,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 > - :seedling: Always growing!
 > - :speech_balloon: ¿Hablamos?
 
-### ⚡ ¿Qué hago? ⚡
+### ⚡ What do I do? ⚡
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ff8181?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-57a4ff?style=flat-square&logo=css3)
@@ -26,4 +26,4 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-c3f4e9?style=flat-square&logo=AdobePhotoshop)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-dcb6f2?style=flat-square&logo=AdobeXD)
 
-Encuéntrame en [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
+Meet me at [linkedin](https://www.linkedin.com/in/sandragutierrezgonzalez/), [instagram](https://www.instagram.com/salamansandra/) y [twitter](https://twitter.com/SandSan12).
