@@ -1,6 +1,6 @@
-## ¡Hola! Soy Sandra :relaxed:
+## Hi! I´m Sandra :relaxed:
 
-Tras años trabajando en el ámbito pedagógico, decidí dar un giro de 180º y enfocarme hacia el desarrollo web. Mi pasión y compromiso me permitieron iniciarme de forma autodidacta y colaborar como maquetadora en pequeños proyectos, pero mis ganas de seguir formandome me impulsaron a cursar el Bootcamp de Programación Web de #Adalab. Tras mi paso por Adalab, me siento lista para enfrentar nuevos retos.
+After years of working on the educational sector, I decided to take a 180º turn and focus on web development. With passion and dedication I taught myself the basics of HTML and CSS, and began to collaborate as a layout designer on small projects. I wanted to improve my skills so I decided to study the #Adalab Web Programming Bootcamp. After my time at Adalab, I feel ready for new challenges.
 
 > - ✨ En búsqueda de nuevos retos profesionales.
 > - :purple_heart: #Adalaber - Promo Olguin.
