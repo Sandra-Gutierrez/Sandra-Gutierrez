@@ -18,10 +18,10 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![Javascript](https://img.shields.io/badge/-JavaScript-429e9d?style=flat-square&logo=javascript)
 ![TipeScript](https://img.shields.io/badge/-TipeScript-429e9d?style=flat-square&logo=tipescript)
 ![React](https://img.shields.io/badge/-React-30373f?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-30373f?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-57a4ff?style=flat-square&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 
-![C#](https://img.shields.io/badge/-C#-429e9d?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Netcore](https://img.shields.io/badge/-.Netcore-429e9d?style=flat-square&logo=NetCore)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF483?style=flat-square&logo=Node.JS)
 ![npm](https://img.shields.io/badge/-npm-c3f4e9?style=flat-square&logo=NPM)
