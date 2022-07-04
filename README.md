@@ -16,10 +16,12 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-dcb6f2?style=flat-square&logo=BOOTSTRAP)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-429e9d?style=flat-square&logo=javascript)
-![Tipescript](https://img.shields.io/badge/-JavaScript-429e9d?style=flat-square&logo=tipescript)
+![Tipescript](https://img.shields.io/badge/-TipeScript-429e9d?style=flat-square&logo=ts)
 ![React](https://img.shields.io/badge/-React-30373f?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-React-30373f?style=flat-square&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
+![C#](https://img.shields.io/badge/-C#-429e9d?style=flat-square&logo=c#)
+![.Netcore](https://img.shields.io/badge/-.Net core-429e9d?style=flat-square&logo=.Netcore)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF483?style=flat-square&logo=Node.JS)
 ![npm](https://img.shields.io/badge/-npm-c3f4e9?style=flat-square&logo=NPM)
 ![SQL](https://img.shields.io/badge/-SQL-ff8181?style=flat-square&logo=SQLite)
