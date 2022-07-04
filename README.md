@@ -16,7 +16,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-dcb6f2?style=flat-square&logo=BOOTSTRAP)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-429e9d?style=flat-square&logo=javascript)
-![TipeScript](https://img.shields.io/badge/-TipeScript-429e9d?style=flat-square&logo=typescript&logoColor=white)
+![TipeScript](https://img.shields.io/badge/-TipeScript-ff8181?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-30373f?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-57a4ff?style=flat-square&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
