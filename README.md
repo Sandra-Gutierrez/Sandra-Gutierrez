@@ -2,7 +2,7 @@
 
 After years of working on the educational sector, I decided to take a 180º turn and focus on web development. With passion and dedication I taught myself the basics of HTML and CSS, and began to collaborate as a layout designer on small projects. I wanted to improve my skills so I decided to study the #Adalab Web Programming Bootcamp. After my time at Adalab, I feel ready for new challenges.
 
-> - ✨ Looking for new professional challenges.
+> - ✨ Working at #GreeMko as a Full Stack Developer.
 > - :purple_heart: #Adalaber - Promo Olguin.
 > - ➕ Background: Pedagogía, E-Learning and Atención Temprana.
 > - :seedling: Always growing!
@@ -22,7 +22,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 
 ![C#](https://img.shields.io/badge/C%23-30373f?style=flat-square&logoColor=white)
-![.Netcore](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![.Netcore](https://img.shields.io/badge/.NET core-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF483?style=flat-square&logo=Node.JS)
 ![npm](https://img.shields.io/badge/-npm-c3f4e9?style=flat-square&logo=NPM)
 ![SQL](https://img.shields.io/badge/-SQL-ff8181?style=flat-square&logo=SQLite)
