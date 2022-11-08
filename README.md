@@ -22,7 +22,7 @@ After years of working on the educational sector, I decided to take a 180º turn
 ![Git](https://img.shields.io/badge/-Git-ffdbe2?style=flat-square&logo=git)
 
 ![C#](https://img.shields.io/badge/C%23-30373f?style=flat-square&logoColor=white)
-![.Netcore](https://img.shields.io/badge/.NET core-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![.Netcore](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF483?style=flat-square&logo=Node.JS)
 ![npm](https://img.shields.io/badge/-npm-c3f4e9?style=flat-square&logo=NPM)
 ![SQL](https://img.shields.io/badge/-SQL-ff8181?style=flat-square&logo=SQLite)
